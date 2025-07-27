@@ -1,2 +1,3 @@
 Hello, Git!
 Feature added
+Added new line to index.txt in main branch to practice clone and pull
